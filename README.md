@@ -29,6 +29,8 @@ O projeto inclui um dashboard com:
 - Top 10 seleções por saldo de gols
 - Top 10 seleções por pontos
 
+<img src="dashboard.png" alt="Dashboard do Projeto" width="100%"/>
+
 ---
 
 ## 🛠️ Tecnologias utilizadas
@@ -37,3 +39,15 @@ O projeto inclui um dashboard com:
 - Pandas
 - NumPy
 - Matplotlib
+
+---
+
+## ⚡ Execução rápida
+
+```bash
+git clone https://github.com/SEU_USUARIO/copa-do-mundo-2022-analise.git
+cd copa-do-mundo-2022-analise
+pip install -r requirements.txt
+python Analise_Copa_do_Mundo_2022.py
+
+
