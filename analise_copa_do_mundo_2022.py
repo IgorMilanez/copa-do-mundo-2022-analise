@@ -14,10 +14,6 @@ import matplotlib.pyplot as plt
 df = pd.read_csv('Fifa_world_cup_2022_matches.csv')
 df.head(65)
 
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-
 # ================================
 # TIMES E JOGOS
 # ================================
