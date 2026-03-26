@@ -29,7 +29,7 @@ O projeto inclui um dashboard com:
 - Top 10 seleções por saldo de gols
 - Top 10 seleções por pontos
 
-<img src="dashboard.png" alt="Dashboard do Projeto" width="100%"/>
+<img src="dashboards.png" alt="Dashboard do Projeto" width="100%"/>
 
 ---
 
