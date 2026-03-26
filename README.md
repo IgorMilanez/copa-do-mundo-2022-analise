@@ -48,6 +48,6 @@ O projeto inclui um dashboard com:
 git clone https://github.com/SEU_USUARIO/copa-do-mundo-2022-analise.git
 cd copa-do-mundo-2022-analise
 pip install -r requirements.txt
-python Analise_Copa_do_Mundo_2022.py
+python analise_copa_do_mundo_2022.py
 
 
